@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/827847879.svg)](https://zenodo.org/doi/10.5281/zenodo.12733950)
+
 # Developmental stage determines the realized energy landscape for a flight specialist 
 ### R script for reproducing the results of Nourani et al 2024, _eLife_ (https://doi.org/10.7554/eLife.98818.1) 
 ### Data is stored in Edmond repository "Energy landscape Ontogeny" at https://doi.org/10.17617/3.FM4EJC
